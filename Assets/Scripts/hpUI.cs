@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-public class health : MonoBehaviour
+public class hpUI : MonoBehaviour
 {
     private int hp = 100;
     public Text hpText;
