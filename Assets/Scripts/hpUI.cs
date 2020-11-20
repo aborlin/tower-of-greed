@@ -9,13 +9,14 @@ public class hpUI : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        hpText = GetComponent<Text>();
+        hpText.text = "HP: " + 100;
     }
 
     // Update is called once per frame
     void Update()
     {
-        hpText.text = "HP: " + hp;
+        hpText.text = "HP: " + 100;
 
         //if(condition){
         // hp--;
