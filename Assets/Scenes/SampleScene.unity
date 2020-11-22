@@ -1669,13 +1669,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-<<<<<<< HEAD
-  m_LocalRotation: {x: 0.20555975, y: 0.000000015300209, z: -0.0000000032137377, w: 0.9786446}
-  m_LocalPosition: {x: 0, y: 7.733839, z: -7.967143}
-=======
   m_LocalRotation: {x: 0.20555973, y: -0.00000002298845, z: 0.0000000048286166, w: 0.9786446}
   m_LocalPosition: {x: 0, y: 7.483839, z: -7.967143}
->>>>>>> 8a6122b54570541e6e6fafd5d9b4449d624cb712
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2731,20 +2726,12 @@ PrefabInstance:
     - target: {fileID: 6465683002193348103, guid: 356c808d41899b248b8fe7f0b8ede549,
         type: 3}
       propertyPath: m_LocalRotation.y
-<<<<<<< HEAD
-      value: -5.3842285e-16
-=======
       value: 0.00000003249195
->>>>>>> 8a6122b54570541e6e6fafd5d9b4449d624cb712
       objectReference: {fileID: 0}
     - target: {fileID: 6465683002193348103, guid: 356c808d41899b248b8fe7f0b8ede549,
         type: 3}
       propertyPath: m_LocalRotation.z
-<<<<<<< HEAD
-      value: 6.830495e-16
-=======
       value: -0.000000007382157
->>>>>>> 8a6122b54570541e6e6fafd5d9b4449d624cb712
       objectReference: {fileID: 0}
     - target: {fileID: 6465683002193348103, guid: 356c808d41899b248b8fe7f0b8ede549,
         type: 3}
@@ -2804,25 +2791,12 @@ PrefabInstance:
     - target: {fileID: 6465683002343969353, guid: 356c808d41899b248b8fe7f0b8ede549,
         type: 3}
       propertyPath: m_LocalRotation.y
-<<<<<<< HEAD
-      value: 0.000000018753623
-=======
       value: -0.000000027709175
->>>>>>> 8a6122b54570541e6e6fafd5d9b4449d624cb712
       objectReference: {fileID: 0}
     - target: {fileID: 6465683002343969353, guid: 356c808d41899b248b8fe7f0b8ede549,
         type: 3}
       propertyPath: m_LocalRotation.z
-<<<<<<< HEAD
-      value: -0.0000000042867287
-      objectReference: {fileID: 0}
-    - target: {fileID: 6465683002343969353, guid: 356c808d41899b248b8fe7f0b8ede549,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-=======
       value: 0.000000006333801
->>>>>>> 8a6122b54570541e6e6fafd5d9b4449d624cb712
       objectReference: {fileID: 0}
     - target: {fileID: 6465683003937490616, guid: 356c808d41899b248b8fe7f0b8ede549,
         type: 3}
